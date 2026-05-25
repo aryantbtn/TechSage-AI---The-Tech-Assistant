@@ -6,7 +6,7 @@ A **RAG (Retrieval-Augmented Generation) based chatbot** designed for resolving 
 
 This is the chatbot interactive UI built using Streamlit.
 
-![Chatbot UI](assets/chatbot-ui.png)
+![Chatbot UI](assets/ChatbotUI.png)
 
 ---
 
@@ -14,7 +14,7 @@ This is the chatbot interactive UI built using Streamlit.
 
 This table stores user queries, chatbot responses, source references, and feedback for future improvements.
 
-![Response Feedback Table](assets/response_feedback_table.png)
+![Response Feedback Table](assets/Response_feedback_Table.png)
 
 ## Features
 
