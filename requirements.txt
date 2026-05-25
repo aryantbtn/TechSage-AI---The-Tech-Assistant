@@ -1,0 +1,17 @@
+os
+re
+json
+hashlib
+streamlit
+CrossEncoder
+
+Document
+PyPDFLoader
+RecursiveCharacterTextSplitter
+HuggingFaceEmbeddings
+Chroma
+pipeline
+
+mysql.connector
+time
+math

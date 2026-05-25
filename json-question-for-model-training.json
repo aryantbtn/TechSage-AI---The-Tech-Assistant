@@ -1,0 +1,82 @@
+[
+    {
+        "question": "My computer is running very slow. What should I do?",
+        "answer": "1. Restart your computer.\n2. Press Ctrl + Shift + Esc to open Task Manager.\n3. Check for programs using high CPU or memory and close unnecessary ones.\n4. Delete temporary files using Disk Cleanup.\n5. Run an antivirus scan.\n6. Ensure at least 20% disk space is free."
+    },
+    {
+        "question": "I cannot connect to the internet. How can I fix it?",
+        "answer": "1. Check if Wi-Fi is turned on or Ethernet cable is connected.\n2. Restart your router and modem.\n3. Click on network icon and reconnect to the network.\n4. Run network troubleshooter from settings.\n5. Contact IT support if the issue persists."
+    },
+    {
+        "question": "My computer won't turn on. What could be wrong?",
+        "answer": "1. Check if the power cable is properly connected.\n2. Try a different power outlet.\n3. Look for any indicator lights on the CPU.\n4. Remove external devices and try again.\n5. Contact hardware support if still not working."
+    },
+    {
+        "question": "I forgot my system password. What should I do?",
+        "answer": "1. Click on 'Forgot Password' on the login screen.\n2. Follow the reset instructions.\n3. Use recovery email or phone if prompted.\n4. If unsuccessful, contact IT administrator."
+    },
+    {
+        "question": "My keyboard is not working. What can I do?",
+        "answer": "1. Check if the keyboard is properly connected.\n2. Try plugging into another USB port.\n3. Restart the computer.\n4. Test with another keyboard if available.\n5. Update or reinstall keyboard drivers."
+    },
+    {
+        "question": "My mouse is not responding. How do I fix it?",
+        "answer": "1. Check connection or USB receiver.\n2. Replace batteries if wireless.\n3. Try another USB port.\n4. Restart the system.\n5. Update mouse drivers."
+    },
+    {
+        "question": "I cannot print documents. What should I check?",
+        "answer": "1. Ensure printer is powered on.\n2. Check cable or network connection.\n3. Set the correct printer as default.\n4. Check for paper jams and ink levels.\n5. Restart printer and computer."
+    },
+    {
+        "question": "My application keeps crashing. What should I do?",
+        "answer": "1. Close and reopen the application.\n2. Restart your computer.\n3. Check for software updates.\n4. Reinstall the application.\n5. Contact IT support if issue continues."
+    },
+    {
+        "question": "My USB device is not recognized. What should I do?",
+        "answer": "1. Remove and reconnect the USB device.\n2. Try a different USB port.\n3. Restart your computer.\n4. Check Device Manager for errors.\n5. Update USB drivers."
+    },
+    {
+        "question": "I am getting a 'low disk space' warning. What can I do?",
+        "answer": "1. Open File Explorer and check disk usage.\n2. Delete unnecessary files.\n3. Empty Recycle Bin.\n4. Use Disk Cleanup tool.\n5. Move files to external storage."
+    },
+    {
+        "question": "My email is not sending or receiving. What can I do?",
+        "answer": "1. Check internet connection.\n2. Verify email credentials.\n3. Check email server settings.\n4. Restart email application.\n5. Contact IT support."
+    },
+    {
+        "question": "My system freezes frequently. What should I do?",
+        "answer": "1. Restart the computer.\n2. Check Task Manager for high resource usage.\n3. Update system drivers.\n4. Run antivirus scan.\n5. Check for overheating issues."
+    },
+    {
+        "question": "How do I connect to a Wi-Fi network?",
+        "answer": "1. Click on Wi-Fi icon in taskbar.\n2. Select the desired network.\n3. Click 'Connect'.\n4. Enter the password.\n5. Wait for connection confirmation."
+    },
+    {
+        "question": "My speakers are not working. What should I check?",
+        "answer": "1. Check volume level and mute settings.\n2. Ensure speakers are properly connected.\n3. Select correct audio output device.\n4. Restart the computer.\n5. Update audio drivers."
+    },
+    {
+        "question": "My webcam is not working. What can I do?",
+        "answer": "1. Check if webcam is enabled.\n2. Verify app permissions.\n3. Restart the computer.\n4. Update webcam drivers.\n5. Test with another application."
+    },
+    {
+        "question": "My external hard drive is not detected. What should I do?",
+        "answer": "1. Check cable connections.\n2. Try another USB port.\n3. Restart your computer.\n4. Check Disk Management.\n5. Update drivers."
+    },
+    {
+        "question": "My system shows 'No Boot Device Found'. What does it mean?",
+        "answer": "1. Restart the computer.\n2. Enter BIOS/UEFI settings.\n3. Check if hard drive is detected.\n4. Verify boot order.\n5. Contact IT if issue persists."
+    },
+    {
+        "question": "My system shows too many pop-ups. What should I do?",
+        "answer": "1. Close suspicious browser tabs.\n2. Clear browser cache.\n3. Remove unwanted extensions.\n4. Run antivirus scan.\n5. Reset browser settings."
+    },
+    {
+        "question": "My laptop battery drains quickly. What can I do?",
+        "answer": "1. Reduce screen brightness.\n2. Close unused applications.\n3. Turn off Bluetooth/Wi-Fi if not needed.\n4. Check battery health.\n5. Enable power saver mode."
+    },
+    {
+        "question": "My screen flickers occasionally. What should I do?",
+        "answer": "1. Restart the computer.\n2. Check display cable connections.\n3. Update display drivers.\n4. Adjust refresh rate settings.\n5. Test with another monitor if possible."
+    }
+]
