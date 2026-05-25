@@ -244,6 +244,7 @@ http://localhost:8501
 ---
 
 ## Author
-**Aryan Singhal**  
-📧 Email: aryansinghal705@gmail.com
+
+**Aryan Singhal**<br>
+📧 Email: aryansinghal705@gmail.com<br>
 💻 RAG Based IT Issue Resolver Chatbot
